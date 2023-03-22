@@ -1,0 +1,6 @@
+C:\Session2_24ip192\Day 8-9\BigPack\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Session2_24ip192\Day 8-9\BigPack\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Session2_24ip192\Day 8-9\BigPack\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Session2_24ip192\Day 8-9\BigPack\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Session2_24ip192\Day 8-9\BigPack\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Session2_24ip192\Day 8-9\BigPack\ClassLibrary\obj\Debug\ClassLibrary.pdb
