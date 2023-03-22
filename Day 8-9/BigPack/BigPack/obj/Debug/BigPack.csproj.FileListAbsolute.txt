@@ -1,0 +1,12 @@
+C:\Session2_24ip192\Day 8\BigPack\BigPack\bin\Debug\BigPack.exe.config
+C:\Session2_24ip192\Day 8\BigPack\BigPack\bin\Debug\BigPack.exe
+C:\Session2_24ip192\Day 8\BigPack\BigPack\bin\Debug\BigPack.pdb
+C:\Session2_24ip192\Day 8\BigPack\BigPack\obj\Debug\BigPack.MaterialListForm.resources
+C:\Session2_24ip192\Day 8\BigPack\BigPack\obj\Debug\BigPack.Properties.Resources.resources
+C:\Session2_24ip192\Day 8\BigPack\BigPack\obj\Debug\BigPack.csproj.GenerateResource.cache
+C:\Session2_24ip192\Day 8\BigPack\BigPack\obj\Debug\BigPack.csproj.CoreCompileInputs.cache
+C:\Session2_24ip192\Day 8\BigPack\BigPack\obj\Debug\BigPack.exe
+C:\Session2_24ip192\Day 8\BigPack\BigPack\obj\Debug\BigPack.pdb
+C:\Session2_24ip192\Day 8\BigPack\BigPack\obj\Debug\BigPack.csproj.AssemblyReference.cache
+C:\Session2_24ip192\Day 8\BigPack\BigPack\obj\Debug\BigPack.AddMaterialForm.resources
+C:\Session2_24ip192\Day 8\BigPack\BigPack\obj\Debug\BigPack.EditMaterialForm.resources
